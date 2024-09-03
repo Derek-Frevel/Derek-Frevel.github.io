@@ -1,5 +1,3 @@
-# Derek Frevel
-
 ## About Me
 Hello! My name is Derek Frevel, and I'm a passionate game developer with a strong foundation in both programming and design. I graduated with distinction from the University of Alberta in 2024 with a degree in Computing Science, complemented by a Certificate in Computer Game Development.
 
