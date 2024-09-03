@@ -39,9 +39,3 @@ For the second level, instead of the player fighting through a level to reach a 
 In the third level, I implemented inverted movement controls, complemented by a maze-like environment where players navigate to find ingredients. This level required players to adapt to the new control scheme while dealing with the maze layout.
 
 For the fourth level, I inverted the speed of the player’s projectiles to challenge aiming. This twist was notably difficult, so I designed the level to help players understand and adjust to the difficulty curve before facing more intense challenges.
-
-
-
-## Projects I have worked on
-- Video Game: [Let's Try Again Tomorrow](https://team-unsure.github.io/) (2021)
-  - This was a group project completed for the Class CMPUT 250 at the University of Alberta
