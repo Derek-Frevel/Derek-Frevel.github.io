@@ -1,9 +1,9 @@
 ## About Me
-Hello! My name is Derek Frevel, and I'm a passionate game developer with a strong foundation in both programming and design. I graduated with distinction from the University of Alberta in 2024 with a degree in Computing Science, complemented by a Certificate in Computer Game Development.
+Hello! My name is Derek Frevel, and I'm a game developer with experience in both programming and design. I graduated with distinction from the University of Alberta in 2024 with a degree in Computing Science, complemented by a _Certificate in Computer Game Development_. I've since started a course-based masters degree in _Computing Science - Multimedia_. So far, I've finished all the course requirements and am in the process of finding an internship to complete the 8 month co-op requirement.
 
-I specialize in gameplay programming, where I bring ideas to life by creating engaging and interactive experiences through games. I have some experience working on and creating a variety of AI entities, exploring how they can make game worlds more dynamic. Additionally, I’ve contributed to various UI implementations, enhancing the overall user experience.
+I specialize in general gameplay programming, developing systems, mechanics, and user interfaces for digital games. Through my personal and professional projects I gained a wide variety of experience working with systems and technologies like: AI behaviours, combat mechanics, multiplayer networking, computer vision techniques, VR/AR, mobile development, and user interface design & implementation.
 
-I'm always eager to push the boundaries of what's possible in game development, and I'm excited about any opportunity that allows me to bring my skills to new and exciting projects.
+I'm always open to work on new and innovative games. I like to keep an open mind and enjoy learning new technologies that can help me make better and more unique games.
 
 ## My Projects
 ### [The Drawnjuring](https://store.steampowered.com/app/3048510/The_Drawnjuring/) (2024-Present)
